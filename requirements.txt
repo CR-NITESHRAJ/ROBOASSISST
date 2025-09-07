@@ -1,0 +1,12 @@
+        pandas
+        flask
+        fastapi
+        uvicorn
+        opencv-python
+        pyzbar
+        pyttsx3
+        SpeechRecognition
+        vosk
+        gTTS
+        ultralytics
+        numpy
