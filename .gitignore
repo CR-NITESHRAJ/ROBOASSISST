@@ -1,0 +1,15 @@
+    __pycache__/
+    *.pyc
+
+    # Virtual Environment
+    venv/
+    .venv/
+
+    # Models and datasets
+    *.pt
+    *.h5
+    *.bin
+    datasets/
+
+    # Operating System files
+    .DS_Store
